@@ -5,7 +5,7 @@
 - [x] bioinfo scripts
 - [ ] other
 
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/1beeabe0-d896-4434-be8f-18a88d48f6a2" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1beeabe0-d896-4434-be8f-18a88d48f6a2" />
 
 
 ## About me
