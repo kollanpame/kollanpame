@@ -7,6 +7,8 @@
 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8c6330b4-06ab-4b80-b6a4-a250f8e60a64" />
 
+![Moje statystyki](https://github-readme-stats.vercel.app/api?username=kollanpame)
+
 ## About me
 - one
 - two
