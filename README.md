@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+
+## What's here?
+- [ ] educational projects
+- [ ] bioinfo scripts
+- [ ] other
+
+## About me
+- one
+- two
+- three
 
 <!--
 **kollanpame/kollanpame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
