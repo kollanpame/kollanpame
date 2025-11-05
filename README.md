@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ## What's here?
-- [ ] educational projects
-- [ ] bioinfo scripts
+- [x] educational projects
+- [x] bioinfo scripts
 - [ ] other
 
 ## About me
